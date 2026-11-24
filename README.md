@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280" alt="ooo-reply-01 logo">
+
+**The funniest AI out-of-office reply.**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FF7A00&color=0A1931) ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&labelColor=FF7A00&color=0A1931) ![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-orange?style=for-the-badge&labelColor=FF7A00&color=0A1931)
+
+</div>
+
 # ooo-reply-01
 
 [![make.fun · u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d.svg)](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d?utm_source=github&utm_medium=readme&utm_campaign=u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)
